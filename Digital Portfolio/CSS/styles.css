@@ -1,0 +1,38 @@
+body
+{
+    background-color: darkslategrey;
+}
+
+.title
+{
+    position: relative;
+    align-self: center;
+    background-color: rgb(183, 213, 231);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.content
+{
+    background-color: rgb(183, 213, 231);
+    position: relative;
+    align-self: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.nav
+{
+    position: relative;
+    align-self: center;
+    background-color: rgb(183, 213, 231);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.footer
+{
+    background-color: rgb(183, 213, 231);
+    align-self: center;
+    position: relative;
+}
